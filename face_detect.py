@@ -31,8 +31,8 @@ cap.release()
 #Mail
 subject = "Security Alert"
 body = "This is an email with the image who's detect in the security camera"
-sender_email = "2019jiotyagi@gmail.com"
-receiver_email = "lalitacutee86@gmail.com"
+sender_email = "sender@gmail.com"
+receiver_email = "reciever@gmail.com"
 password = input("Type your password and press enter:")
 
 # Create a multipart message and set headers
